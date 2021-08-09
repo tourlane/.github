@@ -1,6 +1,6 @@
 ## Context/Change
 
-Please include a summary of the change and the reasoning and/or motiviation behind it. List any dependencies that are
+Please include a summary of the change and the reasoning and/or motivation behind it. List any dependencies that are
 required and any potential issues to look out for.
 
 ### Checklist
