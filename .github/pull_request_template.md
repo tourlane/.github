@@ -8,6 +8,7 @@ required and any potential issues to look out for.
 - [ ] Ensure you have written good tests :heart:
 - [ ] Request reviewers (they would love to see your code :policeman:)
 - [ ] Use labels  🏷  (if applicable)
+- [ ] Test your code in appropriate environment i.e development/staging/production
 
 ## Reference
 
